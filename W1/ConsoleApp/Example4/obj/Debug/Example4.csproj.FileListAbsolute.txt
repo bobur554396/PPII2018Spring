@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example4\bin\Debug\Example4.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example4\bin\Debug\Example4.exe
+C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example4\bin\Debug\Example4.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example4\obj\Debug\Example4.exe
+C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example4\obj\Debug\Example4.pdb
