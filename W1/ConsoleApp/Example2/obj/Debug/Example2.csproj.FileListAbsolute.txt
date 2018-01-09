@@ -1,5 +1,0 @@
-C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example2\bin\Debug\Example2.exe.config
-C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example2\bin\Debug\Example2.exe
-C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example2\bin\Debug\Example2.pdb
-C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example2\obj\Debug\Example2.exe
-C:\Users\Bobur\Desktop\PT\PP II\W1\ConsoleApp\Example2\obj\Debug\Example2.pdb
