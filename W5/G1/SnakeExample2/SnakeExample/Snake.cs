@@ -14,7 +14,7 @@ namespace SnakeExample
 
         public Snake()
         {
-            sign = 'O';
+            sign = 'o';
             color = ConsoleColor.Yellow;
             body = new List<Point>();
 
