@@ -26,18 +26,16 @@ namespace SnakeExample
         {
             body.Clear();
 
-
             string filePath = string.Format(@"Levels\level{0}.txt", level);
             FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);
             StreamReader sr = new StreamReader(fs);
 
             string line = "";
             int i = 0;
-            int row = -1;
+            int row = 0;
             while(i < 20)
             {
                 line = sr.ReadLine();
-                row++;
                 for (int col = 0; col < line.Length; col++)
                 {
                     if (line[col] == '#')
@@ -46,6 +44,7 @@ namespace SnakeExample
                     }
                 }
                 i++;
+                row++;
             }
         }
 

@@ -24,7 +24,8 @@ namespace SnakeExample
             int x = new Random().Next(0, 70);
             int y = new Random().Next(0, 20);
 
-            // TODO check for snake and wall
+            // TODO: is x and y on the wall?
+            // TODO: is x and y on the snake?
 
             location = new Point(x, y);
         }

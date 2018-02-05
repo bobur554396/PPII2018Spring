@@ -14,13 +14,13 @@ namespace SnakeExample
 
         public Snake()
         {
-            sign = 'o';
+            sign = 'O';
             color = ConsoleColor.Yellow;
             body = new List<Point>();
 
-            body.Add(new Point(10, 10));
-            body.Add(new Point(11, 10));
             body.Add(new Point(12, 10));
+            body.Add(new Point(11, 10));
+            body.Add(new Point(10, 10));
         }
 
         public void Move(int dx, int dy)
@@ -37,17 +37,19 @@ namespace SnakeExample
             body[0].x = body[0].x + dx;
             body[0].y = body[0].y + dy;
 
-            // collision with wall
-            // collision with itself (snake)
-            // load new level if ...
+            // TODO: can snake eat?
+            // TODO: check for collision with wall 
+            // TODO: check for collision with itself (snake)
+            // TODO: check for collision with border (console border (maximum width and height))
+            // TODO: if necessary, load new level of the wall
         }
 
         public bool CanEat(Food food)
         {
-            if(food.location.x == body[0].x && 
-                food.location.y == body[0].y)
-            {
-                body.Add(food.location);
+            if(food.location.x == body[0].x && food.location.y == body[0].y){
+                //body.Add(new Point(body[0].x, body[0].y)); // add position of head
+                //body.Add(new Point(food.location.x, food.location.y)); // add position of food same as head
+                body.Add(new Point(body[body.Count - 1].x, body[body.Count - 1].y)); // add position of last point
                 return true;
             }
             return false;

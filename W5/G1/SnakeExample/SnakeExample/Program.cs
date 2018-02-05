@@ -15,8 +15,6 @@ namespace SnakeExample
             Snake snake = new Snake();
             Food food = new Food();
             Wall wall = new Wall();
-
-            
             
             int cnt = 0;
 

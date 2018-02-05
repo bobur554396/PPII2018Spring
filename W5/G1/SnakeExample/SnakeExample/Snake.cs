@@ -17,10 +17,9 @@ namespace SnakeExample
             sign = 'o';
             color = ConsoleColor.Yellow;
             body = new List<Point>();
-
-            body.Add(new Point(10, 10));
-            body.Add(new Point(11, 10));
             body.Add(new Point(12, 10));
+            body.Add(new Point(11, 10));
+            body.Add(new Point(10, 10));            
         }
 
         public void Move(int dx, int dy)
