@@ -12,13 +12,9 @@ namespace SnakeExample
         {
             Game.Init();
 
-            
             while (!Game.GameOver)
             {
-                //Console.Clear();
-                Game.snake.Draw();
-                Game.food.Draw();
-                Game.wall.Draw();
+                Game.Draw();
 
                 ConsoleKeyInfo btn = Console.ReadKey();
                 switch (btn.Key)
@@ -35,23 +31,6 @@ namespace SnakeExample
                     case ConsoleKey.RightArrow:
                         Game.snake.Move(1, 0);
                         break;
-                }
-
-
-                if (Game.snake.body[0].x < 0)
-                    Game.snake.body[0].x = 69;
-                if (Game.snake.body[0].x > 69)
-                    Game.snake.body[0].x = 0;
-                if (Game.snake.body[0].y < 0)
-                    Game.snake.body[0].y = 19;
-                if (Game.snake.body[0].y > 19)
-                    Game.snake.body[0].y = 0;
-
-
-
-                if (Game.snake.CanEat())
-                {
-                    Game.food.SetRandomPosition();
                 }
             }
             

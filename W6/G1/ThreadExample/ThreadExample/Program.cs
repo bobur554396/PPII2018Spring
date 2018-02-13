@@ -37,8 +37,6 @@ namespace ThreadExample
             }
         }
 
-        
-
         static void Main(string[] args)
         {
             Console.WriteLine("Main thread start");

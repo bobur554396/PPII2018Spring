@@ -42,6 +42,26 @@ namespace SnakeExample
             // TODO: check for collision with itself (snake)
             // TODO: check for collision with border (console border (maximum width and height))
             // TODO: if necessary, load new level of the wall
+
+            if (CanEat())
+            {
+                Game.food.SetRandomPosition();
+            }
+
+            CheckForPlayGroundBorder();
+
+        }
+
+        public void CheckForPlayGroundBorder()
+        {
+            if (body[0].x < 0)
+                body[0].x = 69;
+            if (body[0].x > 69)
+                body[0].x = 0;
+            if (body[0].y < 0)
+                body[0].y = 19;
+            if (body[0].y > 19)
+                body[0].y = 0;
         }
 
         public bool CanEat()

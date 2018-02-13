@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace SnakeExample
 {
-    class Food: Drawer
+    class Food
     {
+        public Point location;
+        public char sign;
+        public ConsoleColor color;
 
         public Food()
         {
@@ -25,6 +28,13 @@ namespace SnakeExample
             // TODO: is x and y on the snake?
 
             location = new Point(x, y);
+        }
+
+        public void Draw()
+        {
+            Console.ForegroundColor = color;
+            Console.SetCursorPosition(location.x, location.y);
+            Console.Write(sign);
         }
     }
 }
