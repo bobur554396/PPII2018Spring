@@ -2,59 +2,93 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace SnakeExample
 {
     class Program
     {
+        public static int direction = 1;
+        public static int speed = 200;
+
+        static void MoveSnakeThread(object state)
+        {
+            while (!Game.GameOver)
+            {
+                switch (direction)
+                {
+                    case 1:
+                        Game.snake.Move(1, 0);
+                        break;
+                    case 2:
+                        Game.snake.Move(0, 1);
+                        break;
+                    case 3:
+                        Game.snake.Move(-1, 0);
+                        break;
+                    case 4:
+                        Game.snake.Move(0, -1);
+                        break;
+                }
+                Game.Draw();
+                Thread.Sleep(speed);
+            }
+            
+        }
+        static void MoveSnakeTimer(object state)
+        {
+            switch (direction)
+            {
+                case 1:
+                    Game.snake.Move(1, 0);
+                    break;
+                case 2:
+                    Game.snake.Move(0, 1);
+                    break;
+                case 3:
+                    Game.snake.Move(-1, 0);
+                    break;
+                case 4:
+                    Game.snake.Move(0, -1);
+                    break;
+            }
+            Game.Draw();
+        }
+
         static void Main(string[] args)
         {
             Game.Init();
 
-            
+
+            Thread t = new Thread(MoveSnakeThread);
+            t.Start();
+
+            /*Timer t = new Timer(MoveSnake);
+            t.Change(0, 100);*/
+
             while (!Game.GameOver)
             {
-                //Console.Clear();
-                Game.snake.Draw();
-                Game.food.Draw();
-                Game.wall.Draw();
-
                 ConsoleKeyInfo btn = Console.ReadKey();
                 switch (btn.Key)
                 {
                     case ConsoleKey.UpArrow:
-                        Game.snake.Move(0, -1);
+                        direction = 4;
                         break;
                     case ConsoleKey.DownArrow:
-                        Game.snake.Move(0, 1);
+                        direction = 2;
                         break;
                     case ConsoleKey.LeftArrow:
-                        Game.snake.Move(-1, 0);
+                        direction = 3;
                         break;
                     case ConsoleKey.RightArrow:
-                        Game.snake.Move(1, 0);
+                        direction = 1;
                         break;
                 }
-
-
-                if (Game.snake.body[0].x < 0)
-                    Game.snake.body[0].x = 69;
-                if (Game.snake.body[0].x > 69)
-                    Game.snake.body[0].x = 0;
-                if (Game.snake.body[0].y < 0)
-                    Game.snake.body[0].y = 19;
-                if (Game.snake.body[0].y > 19)
-                    Game.snake.body[0].y = 0;
-
-
-
-                if (Game.snake.CanEat())
-                {
-                    Game.food.SetRandomPosition();
-                }
             }
-            
+
+
+           
 
         }
     }

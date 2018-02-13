@@ -23,13 +23,5 @@ namespace SnakeExample
             food = new Food();
             wall = new Wall();
         }
-
-        public static void Draw()
-        {
-            //Console.Clear();
-            snake.Draw();
-            food.Draw();
-            wall.Draw();
-        }
     }
 }
