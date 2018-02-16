@@ -23,7 +23,7 @@ namespace SnakeExample
 
             GameOver = false;
             direction = 1;
-            speed = 100;
+            speed = 210;
 
             snake = new Snake();
             food = new Food();

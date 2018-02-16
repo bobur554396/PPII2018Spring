@@ -42,10 +42,13 @@ namespace SnakeExample
             CollisionWithWall();
             if (Eat())
             {
+                if (body.Count % 4 == 0 && Game.speed >= 30)
+                {
+                    Game.speed -= 30;
+                }
                 Game.food.SetRandomPosition();
             }
-            if (body.Count % 4 == 0 && Game.speed > 0)
-                Game.speed -= 20;
+                
         }
 
         public void CollisionWithWall()
