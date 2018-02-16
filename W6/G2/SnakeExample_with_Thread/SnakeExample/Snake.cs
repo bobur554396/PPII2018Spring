@@ -25,10 +25,10 @@ namespace SnakeExample
 
         public void Move(int dx, int dy)
         {
-            /*Point lastPoint = body[body.Count - 1];
+            Point lastPoint = body[body.Count - 1];
             Console.SetCursorPosition(lastPoint.x, lastPoint.y);
             Console.Write(' ');
-            */
+            
 
             for(int i = body.Count - 1; i > 0; i--)
             {
@@ -44,6 +44,8 @@ namespace SnakeExample
             {
                 Game.food.SetRandomPosition();
             }
+            if (body.Count % 4 == 0 && Game.speed > 0)
+                Game.speed -= 20;
         }
 
         public void CollisionWithWall()
@@ -52,6 +54,10 @@ namespace SnakeExample
                 body[0].x = 0;
             if (body[0].x < 0)
                 body[0].x = 69;
+            if (body[0].y > 19)
+                body[0].y = 0;
+            if (body[0].y < 0)
+                body[0].y = 19;
         }
 
         public bool Eat()

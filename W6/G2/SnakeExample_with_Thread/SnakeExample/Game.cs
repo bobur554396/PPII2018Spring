@@ -13,7 +13,8 @@ namespace SnakeExample
         public static Food food;
         public static Wall wall;
         public static bool GameOver;
-        
+        public static int direction;
+        public static int speed;
 
         public static void Init()
         {
@@ -21,6 +22,8 @@ namespace SnakeExample
             Console.SetWindowSize(70, 20);
 
             GameOver = false;
+            direction = 1;
+            speed = 100;
 
             snake = new Snake();
             food = new Food();
@@ -29,7 +32,7 @@ namespace SnakeExample
 
         public static void Draw()
         {
-            Console.Clear();
+            //Console.Clear();
             snake.Draw();
             food.Draw();
             wall.Draw();

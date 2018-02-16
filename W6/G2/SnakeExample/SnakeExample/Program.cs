@@ -34,12 +34,7 @@ namespace SnakeExample
                         Game.snake.Move(1, 0);
                         break;
                 }
-
-                if (Game.snake.Eat())
-                {
-                    Game.food.SetRandomPosition();
-                }
-
+                
             }
 
             
