@@ -22,6 +22,7 @@ namespace Example4
             SolidBrush brush = new SolidBrush(Color.Red);
             e.Graphics.FillRectangle(brush, 0, 0, Width, Height);
 
+
         }
     }
 }
