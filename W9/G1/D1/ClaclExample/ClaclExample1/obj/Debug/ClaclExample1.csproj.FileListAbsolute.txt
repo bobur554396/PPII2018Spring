@@ -1,0 +1,9 @@
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\bin\Debug\ClaclExample1.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\bin\Debug\ClaclExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\bin\Debug\ClaclExample1.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\ClaclExample\ClaclExample1\obj\Debug\ClaclExample1.pdb

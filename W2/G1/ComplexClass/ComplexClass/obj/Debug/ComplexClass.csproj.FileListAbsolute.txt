@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ComplexClass\ComplexClass\bin\Debug\ComplexClass.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ComplexClass\ComplexClass\bin\Debug\ComplexClass.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ComplexClass\ComplexClass\bin\Debug\ComplexClass.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ComplexClass\ComplexClass\obj\Debug\ComplexClass.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ComplexClass\ComplexClass\obj\Debug\ComplexClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.pdb

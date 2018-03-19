@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\DirsFiles\DirsFiles\bin\Debug\DirsFiles.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\DirsFiles\DirsFiles\bin\Debug\DirsFiles.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\DirsFiles\DirsFiles\bin\Debug\DirsFiles.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\DirsFiles\DirsFiles\obj\Debug\DirsFiles.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\DirsFiles\DirsFiles\obj\Debug\DirsFiles.pdb

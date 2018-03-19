@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FarExampleFolders\FarExampleFolders\bin\Debug\FarExampleFolders.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FarExampleFolders\FarExampleFolders\bin\Debug\FarExampleFolders.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FarExampleFolders\FarExampleFolders\bin\Debug\FarExampleFolders.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FarExampleFolders\FarExampleFolders\obj\Debug\FarExampleFolders.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FarExampleFolders\FarExampleFolders\obj\Debug\FarExampleFolders.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FileDirs\FileDirs\bin\Debug\FileDirs.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FileDirs\FileDirs\bin\Debug\FileDirs.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FileDirs\FileDirs\bin\Debug\FileDirs.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FileDirs\FileDirs\obj\Debug\FileDirs.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\FileDirs\FileDirs\obj\Debug\FileDirs.pdb

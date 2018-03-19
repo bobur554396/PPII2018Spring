@@ -1,0 +1,9 @@
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\bin\Debug\CalcExampleWithCode.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\bin\Debug\CalcExampleWithCode.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\bin\Debug\CalcExampleWithCode.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExampleWithCode\obj\Debug\CalcExampleWithCode.pdb

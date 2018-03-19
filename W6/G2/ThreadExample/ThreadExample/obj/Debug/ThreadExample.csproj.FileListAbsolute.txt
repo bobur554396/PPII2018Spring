@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G2\ThreadExample\ThreadExample\obj\Debug\ThreadExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\bin\Debug\MyStackExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\bin\Debug\MyStackExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\bin\Debug\MyStackExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\obj\Debug\MyStackExample.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\obj\Debug\MyStackExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\D2\MyStackExample\MyStackExample\obj\Debug\MyStackExample.pdb

@@ -1,0 +1,8 @@
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\bin\Debug\DateTimeExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\bin\Debug\DateTimeExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\bin\Debug\DateTimeExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\obj\Debug\DateTimeExample.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\obj\Debug\DateTimeExample.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\obj\Debug\DateTimeExample.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\obj\Debug\DateTimeExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\DateTimeExample\obj\Debug\DateTimeExample.pdb

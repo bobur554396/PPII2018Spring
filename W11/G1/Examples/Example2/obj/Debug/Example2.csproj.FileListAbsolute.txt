@@ -1,0 +1,9 @@
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\bin\Debug\Example2.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\bin\Debug\Example2.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\bin\Debug\Example2.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example2\obj\Debug\Example2.pdb

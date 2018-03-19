@@ -1,0 +1,8 @@
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\bin\Debug\TimerWithCode.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\bin\Debug\TimerWithCode.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\bin\Debug\TimerWithCode.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\obj\Debug\TimerWithCode.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\obj\Debug\TimerWithCode.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\obj\Debug\TimerWithCode.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\obj\Debug\TimerWithCode.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G1\Examples\TimerWithCode\obj\Debug\TimerWithCode.pdb

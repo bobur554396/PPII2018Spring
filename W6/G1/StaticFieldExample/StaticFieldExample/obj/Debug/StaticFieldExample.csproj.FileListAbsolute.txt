@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\bin\Debug\StaticFieldExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\bin\Debug\StaticFieldExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\bin\Debug\StaticFieldExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\obj\Debug\StaticFieldExample.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\obj\Debug\StaticFieldExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\StaticFieldExample\StaticFieldExample\obj\Debug\StaticFieldExample.pdb

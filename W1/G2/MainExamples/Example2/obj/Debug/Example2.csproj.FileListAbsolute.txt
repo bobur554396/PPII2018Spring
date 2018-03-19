@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\Group 2\W1\MainExamples\Example2\bin\Debug\Example2.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\Group 2\W1\MainExamples\Example2\bin\Debug\Example2.exe
+C:\Users\Bobur\Desktop\PT\PP II\Group 2\W1\MainExamples\Example2\bin\Debug\Example2.pdb
+C:\Users\Bobur\Desktop\PT\PP II\Group 2\W1\MainExamples\Example2\obj\Debug\Example2.exe
+C:\Users\Bobur\Desktop\PT\PP II\Group 2\W1\MainExamples\Example2\obj\Debug\Example2.pdb

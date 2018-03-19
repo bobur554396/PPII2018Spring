@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\bin\Debug\ConspleKeyButtons.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\bin\Debug\ConspleKeyButtons.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\bin\Debug\ConspleKeyButtons.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\obj\Debug\ConspleKeyButtons.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\obj\Debug\ConspleKeyButtons.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\ConspleKeyButtons\ConspleKeyButtons\obj\Debug\ConspleKeyButtons.pdb

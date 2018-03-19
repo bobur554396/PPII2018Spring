@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\bin\Debug\FarManagerExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\bin\Debug\FarManagerExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\bin\Debug\FarManagerExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\obj\Debug\FarManagerExample.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\obj\Debug\FarManagerExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W3\G2\FarManagerExample\FarManagerExample\obj\Debug\FarManagerExample.pdb

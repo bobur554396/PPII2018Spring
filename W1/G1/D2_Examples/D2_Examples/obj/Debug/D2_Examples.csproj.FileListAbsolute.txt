@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\bin\Debug\D2_Examples.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\bin\Debug\D2_Examples.exe
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\bin\Debug\D2_Examples.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\obj\Debug\D2_Examples.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\obj\Debug\D2_Examples.exe
+C:\Users\Bobur\Desktop\PT\PP II\W1\G1\D2_Examples\D2_Examples\obj\Debug\D2_Examples.pdb

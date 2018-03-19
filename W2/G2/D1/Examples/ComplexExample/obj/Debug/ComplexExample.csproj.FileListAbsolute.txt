@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\Examples\ComplexExample\bin\Debug\ComplexExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\Examples\ComplexExample\bin\Debug\ComplexExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\Examples\ComplexExample\bin\Debug\ComplexExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\Examples\ComplexExample\obj\Debug\ComplexExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G2\Examples\ComplexExample\obj\Debug\ComplexExample.pdb

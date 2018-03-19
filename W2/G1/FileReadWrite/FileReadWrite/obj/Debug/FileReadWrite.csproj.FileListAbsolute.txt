@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\FileReadWrite\FileReadWrite\bin\Debug\FileReadWrite.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.exe
+C:\Users\Bobur\Desktop\PT\PP II\W2\G1\FileReadWrite\FileReadWrite\obj\Debug\FileReadWrite.pdb

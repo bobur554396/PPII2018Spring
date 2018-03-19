@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\XmlExample\bin\Debug\XmlExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\XmlExample\bin\Debug\XmlExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\XmlExample\bin\Debug\XmlExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\XmlExample\obj\Debug\XmlExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\SerializationExamples\XmlExample\obj\Debug\XmlExample.pdb

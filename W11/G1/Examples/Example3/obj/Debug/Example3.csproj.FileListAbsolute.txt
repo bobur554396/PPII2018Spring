@@ -1,0 +1,8 @@
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\bin\Debug\Example3.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\bin\Debug\Example3.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\bin\Debug\Example3.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\obj\Debug\Example3.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\obj\Debug\Example3.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\obj\Debug\Example3.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\obj\Debug\Example3.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\Examples\Example3\obj\Debug\Example3.pdb

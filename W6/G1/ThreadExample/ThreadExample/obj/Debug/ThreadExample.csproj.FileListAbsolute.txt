@@ -1,0 +1,5 @@
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\ThreadExample\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\ThreadExample\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W6\G1\ThreadExample\ThreadExample\obj\Debug\ThreadExample.pdb

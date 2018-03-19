@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\bin\Debug\SnakeExample.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\bin\Debug\SnakeExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\bin\Debug\SnakeExample.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\obj\Debug\SnakeExample.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\obj\Debug\SnakeExample.exe
+C:\Users\Bobur\Desktop\PT\PP II\W5\G2\SnakeExample\SnakeExample\obj\Debug\SnakeExample.pdb

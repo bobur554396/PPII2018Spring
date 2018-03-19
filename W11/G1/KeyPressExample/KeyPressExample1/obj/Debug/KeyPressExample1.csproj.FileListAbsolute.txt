@@ -1,0 +1,9 @@
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\bin\Debug\KeyPressExample1.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\bin\Debug\KeyPressExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\bin\Debug\KeyPressExample1.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W11\G1\KeyPressExample\KeyPressExample1\obj\Debug\KeyPressExample1.pdb

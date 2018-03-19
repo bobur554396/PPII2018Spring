@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\bin\Debug\PointDrawWithButtonClick.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\bin\Debug\PointDrawWithButtonClick.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\bin\Debug\PointDrawWithButtonClick.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\obj\Debug\PointDrawWithButtonClick.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\obj\Debug\PointDrawWithButtonClick.exe
+C:\Users\Bobur\Desktop\PT\PP II\W4\G1\PointDrawWithButtonClick\PointDrawWithButtonClick\obj\Debug\PointDrawWithButtonClick.pdb

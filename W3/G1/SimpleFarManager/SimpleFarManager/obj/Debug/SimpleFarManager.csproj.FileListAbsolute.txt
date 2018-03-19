@@ -1,0 +1,6 @@
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\bin\Debug\SimpleFarManager.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\bin\Debug\SimpleFarManager.exe
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\bin\Debug\SimpleFarManager.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\obj\Debug\SimpleFarManager.csprojResolveAssemblyReference.cache
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\obj\Debug\SimpleFarManager.exe
+C:\Users\Bobur\Desktop\PT\PP II\W3\G1\SimpleFarManager\SimpleFarManager\obj\Debug\SimpleFarManager.pdb

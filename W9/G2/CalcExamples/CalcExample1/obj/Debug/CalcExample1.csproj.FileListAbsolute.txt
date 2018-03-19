@@ -1,0 +1,8 @@
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\bin\Debug\CalcExample1.exe.config
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\bin\Debug\CalcExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\bin\Debug\CalcExample1.pdb
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\obj\Debug\CalcExample1.Form1.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\obj\Debug\CalcExample1.Properties.Resources.resources
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\obj\Debug\CalcExample1.csproj.GenerateResource.Cache
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\obj\Debug\CalcExample1.exe
+C:\Users\Bobur\Desktop\PT\PP II\W9\G2\CalcExamples\CalcExample1\obj\Debug\CalcExample1.pdb
