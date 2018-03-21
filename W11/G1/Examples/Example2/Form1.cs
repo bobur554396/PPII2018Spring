@@ -25,16 +25,16 @@ namespace Example2
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.Image = btm1;
 
-            Bitmap btm2 = new Bitmap(@"2.jpg");
-            Bitmap btm3 = new Bitmap(@"2.jpg");
-            Bitmap btm4 = new Bitmap(@"2.jpg");
-            Bitmap btm5 = new Bitmap(@"2.jpg");
+            Bitmap btm2 = new Bitmap(btm1.Width, btm1.Height);
+            Bitmap btm3 = new Bitmap(btm1.Width, btm1.Height);
+            Bitmap btm4 = new Bitmap(btm1.Width, btm1.Height);
+            Bitmap btm5 = new Bitmap(btm1.Width, btm1.Height);
 
-            for (int i = 0; i < btm2.Width; i++)
+            for (int i = 0; i < btm1.Width; i++)
             {
-                for(int j = 0; j < btm2.Height; j++)
+                for(int j = 0; j < btm1.Height; j++)
                 {
-                    Color pix = btm2.GetPixel(i, j);
+                    Color pix = btm1.GetPixel(i, j);
                     Color newGreen = Color.FromArgb(0, pix.G, 0);
                     Color newRed = Color.FromArgb(pix.R, 0, 0);
                     Color newBlue = Color.FromArgb(0, 0, pix.B);
